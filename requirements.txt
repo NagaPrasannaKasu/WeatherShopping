@@ -4,4 +4,3 @@
 - eclipse-photon-r
 
 
-Installation kit is found under the folder Installation
