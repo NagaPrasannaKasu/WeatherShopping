@@ -1,0 +1,18 @@
+Integration steps:
+
+Install Java
+Install Eclipse
+
+Open Eclipse
+- created the workbench
+- create Java project
+- import selenium jar files via 'Java Build Path'
+-- selenium-server-4.1.1.jar & selenium-server-4.1.1.zip 
+
+Integrate chromedriver 
+- Add the location of chromedriver.exe
+
+Integrate Java package
+- create Java package in the source folder
+- Then create the class file in it and start writing the Test script
+
